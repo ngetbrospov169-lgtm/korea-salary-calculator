@@ -171,12 +171,6 @@ st.markdown("""
         font-size: 14px;
         z-index: 999;
     }
-    .footer-right {
-        position: absolute;
-        right: 20px;
-        top: 50%;
-        transform: translateY(-50%);
-    }
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
     </style>
@@ -315,8 +309,7 @@ with tab3:
 # --- Footer ---
 st.markdown("""
     <div class="footer">
-        Developed by <b>EPS Admin</b> | 🇰🇷 🇰🇭 | 2026 Version
-        <span class="footer-right">Bong Pov KR</span>
+        Developed by <b>Mrr Pov</b> | 🇰🇷 🇰🇭 | 2026 Version
     </div>
     <br><br>
 """, unsafe_allow_html=True)
